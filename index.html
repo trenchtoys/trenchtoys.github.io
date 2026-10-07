@@ -32,5 +32,15 @@ footer { margin-top: 34px; font-size: 13px; opacity: .8; }
 • one launch wallet; dev buy small and disclosed<br>
 • no promises, no paid shills, no fake volume</div>
 <div id="toys"></div>
+<script>
+fetch('toys.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : []).then(toys => {
+  const box = document.getElementById('toys');
+  for (const t of toys.slice().reverse()) {
+    const a = document.createElement('a'); a.href = t.slug + '/'; a.style.cssText = 'text-decoration:none;color:inherit;background:var(--card);border-radius:18px;padding:12px';
+    a.innerHTML = `<img src="${t.slug}/logo.png" alt="" style="width:100%;border-radius:14px"><div style="font-weight:900;font-size:20px;margin-top:8px">${t.name}</div><div style="opacity:.8">$${t.ticker} · ${t.date}</div>`;
+    box.appendChild(a);
+  }
+}).catch(() => {});
+</script>
 <footer>Meme coins with no utility and no promises. Not financial advice. Prices can go to zero.</footer>
 </main></body></html>
