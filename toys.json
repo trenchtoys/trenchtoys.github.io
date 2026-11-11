@@ -208,5 +208,14 @@
   "accent": "#87faf0",
   "t": 1794418072,
   "hidden": true
+ },
+ {
+  "slug": "fomo-fc67",
+  "name": "fomo",
+  "tk": "FOMO",
+  "mint": "BXTNseBWaur6ybiARzVhiA65F8jWJcULysWFTcwNpump",
+  "logo": "img_0_shine.gif",
+  "accent": "#97a3d1",
+  "t": 1794419750
  }
 ]
