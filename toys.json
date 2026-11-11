@@ -57,5 +57,14 @@
   "logo": "img_0.jpg",
   "accent": "#d17060",
   "t": 1794386248
+ },
+ {
+  "slug": "whisper-12bd",
+  "name": "Careless Whisper Jensen",
+  "tk": "WHISPER",
+  "mint": null,
+  "logo": "img_0_zoom.gif",
+  "accent": "#d17060",
+  "t": 1794386727
  }
 ]
