@@ -26,7 +26,8 @@
   "mint": "zFhqF55dHGXwMQYPRsMUbQNEDB7nPbyo6qjoqQRR8a1",
   "logo": "img_1.jpg",
   "accent": "#d1640c",
-  "t": 1794385717
+  "t": 1794385717,
+  "hidden": true
  },
  {
   "slug": "tram-90f1",
