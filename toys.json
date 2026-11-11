@@ -168,5 +168,14 @@
   "accent": "#d12500",
   "t": 1794407571,
   "hidden": true
+ },
+ {
+  "slug": "permit-3668",
+  "name": "Permit",
+  "tk": "PERMIT",
+  "mint": "FQYiFAvLy83G76RjE5ZwT4kGephzr2v6t4fDoQoYpump",
+  "logo": "img_0.jpg",
+  "accent": "#feee89",
+  "t": 1794407719
  }
 ]
