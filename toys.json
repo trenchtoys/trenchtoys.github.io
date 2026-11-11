@@ -46,7 +46,8 @@
   "mint": "4EcrvzTax7sWyZVUHdeSM75aXGjhXs1FRxCuN4wMpump",
   "logo": "img_2_shine.gif",
   "accent": "#d1601b",
-  "t": 1794386232
+  "t": 1794386232,
+  "hidden": true
  },
  {
   "slug": "jensen-cdb9",
