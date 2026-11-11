@@ -65,7 +65,8 @@
   "mint": "GZUCUZg1TRgJ6bArH1Utb526xrChkpywihS6iq1Spump",
   "logo": "img_0_zoom.gif",
   "accent": "#d17060",
-  "t": 1794386741
+  "t": 1794386741,
+  "hidden": true
  },
  {
   "slug": "zshort-9cb1",
