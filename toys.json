@@ -198,5 +198,14 @@
   "accent": "#f6be5c",
   "t": 1794413260,
   "hidden": true
+ },
+ {
+  "slug": "adam-8af0",
+  "name": "Adam Neumann",
+  "tk": "ADAM",
+  "mint": "E6qzqcPr7Qdqm9zQQsykCHmpxjRZPMtTQfSQpQLhpump",
+  "logo": "img_1.jpg",
+  "accent": "#87faf0",
+  "t": 1794418072
  }
 ]
