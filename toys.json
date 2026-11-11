@@ -46,5 +46,14 @@
   "logo": "img_2_shine.gif",
   "accent": "#d1601b",
   "t": 1794386232
+ },
+ {
+  "slug": "jensen-cdb9",
+  "name": "Careless Whisper Jensen",
+  "tk": "JENSEN",
+  "mint": null,
+  "logo": "img_0.jpg",
+  "accent": "#d17060",
+  "t": 1794386248
  }
 ]
