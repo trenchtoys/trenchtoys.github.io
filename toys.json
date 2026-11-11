@@ -228,5 +228,14 @@
   "accent": "#d18024",
   "t": 1794420195,
   "hidden": true
+ },
+ {
+  "slug": "bol-8ce5",
+  "name": "Bowl Buddy",
+  "tk": "BOL",
+  "mint": "3ofxW24x7pugRxcLnHjMCzNHCGLsbYwAzRG1rzjHxxtz",
+  "logo": "img_0.jpg",
+  "accent": "#fba1a3",
+  "t": 1794420409
  }
 ]
