@@ -98,5 +98,14 @@
   "accent": "#8b42fd",
   "t": 1794395034,
   "hidden": true
+ },
+ {
+  "slug": "batcat-3198",
+  "name": "Bat Cat",
+  "tk": "BATCAT",
+  "mint": "7jk7cdDR4MxFzgyhFP1RhmDegqHeBj37AjSdcXaLpump",
+  "logo": "img_0_bounce.gif",
+  "accent": "#d1a673",
+  "t": 1794399557
  }
 ]
