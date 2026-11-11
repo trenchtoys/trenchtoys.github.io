@@ -126,6 +126,7 @@
   "mint": "4DANUCYQzRLgEpz4s7MV4h2w7ACdSdA6H3t2Yj7Tpump",
   "logo": "img_0.jpg",
   "accent": "#d17b49",
-  "t": 1794401068
+  "t": 1794401068,
+  "hidden": true
  }
 ]
