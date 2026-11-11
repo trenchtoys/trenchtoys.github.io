@@ -128,5 +128,14 @@
   "accent": "#d17b49",
   "t": 1794401068,
   "hidden": true
+ },
+ {
+  "slug": "ant-4ca7",
+  "name": "ANT",
+  "tk": "ANT",
+  "mint": "4tTJmXi96oUAnhZvzqE4GqrcRsBs5CMWsz9K412Xpump",
+  "logo": "img_1_zoom.gif",
+  "accent": "#f8be8b",
+  "t": 1794406908
  }
 ]
