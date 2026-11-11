@@ -148,5 +148,14 @@
   "accent": "#165bd1",
   "t": 1794407122,
   "hidden": true
+ },
+ {
+  "slug": "respect-9d0c",
+  "name": "Respect The Pump",
+  "tk": "RESPECT",
+  "mint": "WBqqtMisupwdYd8BzgsSrhNnJL1sepAS3yP6WHFpump",
+  "logo": "img_0_bounce.gif",
+  "accent": "#7cfd06",
+  "t": 1794407433
  }
 ]
