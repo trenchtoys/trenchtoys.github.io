@@ -56,7 +56,8 @@
   "mint": null,
   "logo": "img_0.jpg",
   "accent": "#d17060",
-  "t": 1794386248
+  "t": 1794386248,
+  "hidden": true
  },
  {
   "slug": "whisper-12bd",
