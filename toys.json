@@ -158,5 +158,14 @@
   "accent": "#7cfd06",
   "t": 1794407433,
   "hidden": true
+ },
+ {
+  "slug": "rough-124e",
+  "name": "rough 24 hours",
+  "tk": "ROUGH",
+  "mint": "NPamj2zAoJ2vp9sDnaF9rfYuiRf3VY8pwfxHF1upump",
+  "logo": "img_0_bounce.gif",
+  "accent": "#d12500",
+  "t": 1794407571
  }
 ]
