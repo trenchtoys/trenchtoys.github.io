@@ -78,5 +78,14 @@
   "accent": "#d17363",
   "t": 1794386849,
   "hidden": true
+ },
+ {
+  "slug": "yellowfish-d95b",
+  "name": "One-in-a-Million Yellow Fish",
+  "tk": "YELLOWFISH",
+  "mint": null,
+  "logo": "img_1_shine.gif",
+  "accent": "#fce02b",
+  "t": 1794394223
  }
 ]
