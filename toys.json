@@ -108,5 +108,14 @@
   "accent": "#d1a673",
   "t": 1794399557,
   "hidden": true
+ },
+ {
+  "slug": "gram-f932",
+  "name": "Gram",
+  "tk": "GRAM",
+  "mint": "8BrwJwzR2wu69cKy9zvs7k7DPR36JxDbuK93rpt2pump",
+  "logo": "img_0_shine.gif",
+  "accent": "#d10000",
+  "t": 1794400884
  }
 ]
