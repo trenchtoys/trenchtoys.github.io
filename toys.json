@@ -27,5 +27,14 @@
   "logo": "img_1.jpg",
   "accent": "#d1640c",
   "t": 1794385717
+ },
+ {
+  "slug": "tram-90f1",
+  "name": "Selfie Tram",
+  "tk": "TRAM",
+  "mint": null,
+  "logo": "img_2.jpg",
+  "accent": "#82fbe3",
+  "t": 1794385880
  }
 ]
