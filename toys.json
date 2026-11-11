@@ -188,5 +188,14 @@
   "accent": "#668cd1",
   "t": 1794413021,
   "hidden": true
+ },
+ {
+  "slug": "satinu-17b9",
+  "name": "Satoshi Inu",
+  "tk": "SATINU",
+  "mint": "CXHnLpBJJbwDgJPLpyrGKCTkgaw7zfNKkYNum9Skpump",
+  "logo": "img_0.jpg",
+  "accent": "#f6be5c",
+  "t": 1794413260
  }
 ]
