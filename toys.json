@@ -66,5 +66,14 @@
   "logo": "img_0_zoom.gif",
   "accent": "#d17060",
   "t": 1794386741
+ },
+ {
+  "slug": "zshort-9cb1",
+  "name": "Liquidate 0x8742",
+  "tk": "ZSHORT",
+  "mint": null,
+  "logo": "img_2_zoom.gif",
+  "accent": "#d17363",
+  "t": 1794386833
  }
 ]
