@@ -266,7 +266,8 @@
   "mint": "HQhRVyJUUoaxWFKtLKkf5g6zNxikDpZAU533HHGsfhPA",
   "logo": "img_0.jpg",
   "accent": "#66d1ba",
-  "t": 1794499202
+  "t": 1794499202,
+  "hidden": true
  },
  {
   "slug": "samefit-b5c2",
