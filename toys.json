@@ -388,5 +388,14 @@
   "accent": "#f2c16c",
   "t": 1794527289,
   "hidden": true
+ },
+ {
+  "slug": "sesame-a560",
+  "name": "The Sesame Standard",
+  "tk": "SESAME",
+  "mint": "AqzP2qpektCzGL6fJFBf48rpCqKGez6kYAhsopcjeQs8",
+  "logo": "img_0.jpg",
+  "accent": "#61f3be",
+  "t": 1794527926
  }
 ]
