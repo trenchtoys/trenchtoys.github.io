@@ -277,5 +277,14 @@
   "logo": "img_1.jpg",
   "accent": "#fce29b",
   "t": 1794499625
+ },
+ {
+  "slug": "couch-32f9",
+  "name": "Couch Caucus",
+  "tk": "COUCH",
+  "mint": "49yv8Hu6aSJfpPxiTWk5iAZNk52vCVWVYuWWcnBcqfrf",
+  "logo": "img_0.jpg",
+  "accent": "#d17a51",
+  "t": 1794499821
  }
 ]
