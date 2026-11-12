@@ -256,6 +256,7 @@
   "mint": "36V9ETpGCKW6rmwUqF2CGd8ANHR7S26UVSpwLxGDddEC",
   "logo": "img_1.jpg",
   "accent": "#d17f83",
-  "t": 1794498739
+  "t": 1794498739,
+  "hidden": true
  }
 ]
