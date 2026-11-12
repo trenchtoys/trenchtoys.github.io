@@ -238,5 +238,14 @@
   "accent": "#fba1a3",
   "t": 1794420409,
   "hidden": true
+ },
+ {
+  "slug": "powder-ae5e",
+  "name": "Dry Powder",
+  "tk": "POWDER",
+  "mint": "Hr4ZWbod7h4WknbA7hHMgZQtXkKtXhLc8C6rzZEesY12",
+  "logo": "img_0.jpg",
+  "accent": "#96d162",
+  "t": 1794496830
  }
 ]
