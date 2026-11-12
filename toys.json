@@ -338,5 +338,14 @@
   "accent": "#81e2fd",
   "t": 1794524216,
   "hidden": true
+ },
+ {
+  "slug": "bridge-96de",
+  "name": "Bridge And Tunnel Whale",
+  "tk": "BRIDGE",
+  "mint": "96YrZpjFW6p4zFgwmTGU53trHAmCj3jb9cQ8VM9ABSU7",
+  "logo": "img_0.jpg",
+  "accent": "#feea9c",
+  "t": 1794525064
  }
 ]
