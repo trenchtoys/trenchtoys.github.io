@@ -297,5 +297,14 @@
   "logo": "img_1.jpg",
   "accent": "#d13d02",
   "t": 1794500910
+ },
+ {
+  "slug": "buford-cded",
+  "name": "Buford",
+  "tk": "BUFORD",
+  "mint": "5tf1Mpj4Yvf56WMbjZfHHhFzP1iBGf42TsQbgHEQXt1D",
+  "logo": "img_0.jpg",
+  "accent": "#d1823c",
+  "t": 1794501119
  }
 ]
