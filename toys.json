@@ -276,7 +276,8 @@
   "mint": "JCvbVtewSG9mp7FD9G4BwHFKsW3vB6ebeku1Pueegw9S",
   "logo": "img_1.jpg",
   "accent": "#fce29b",
-  "t": 1794499625
+  "t": 1794499625,
+  "hidden": true
  },
  {
   "slug": "couch-32f9",
