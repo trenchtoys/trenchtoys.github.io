@@ -296,7 +296,8 @@
   "mint": "9jRqFNKAVPBcwgDx2NWCvK7j2yqEmcEDPT3Nxyd4EcLM",
   "logo": "img_1.jpg",
   "accent": "#d13d02",
-  "t": 1794500910
+  "t": 1794500910,
+  "hidden": true
  },
  {
   "slug": "buford-cded",
