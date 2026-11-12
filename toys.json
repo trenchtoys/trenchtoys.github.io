@@ -358,5 +358,14 @@
   "accent": "#d56a22",
   "t": 1794525477,
   "hidden": true
+ },
+ {
+  "slug": "writeoff-cf39",
+  "name": "Claimed The Dog As Dependent",
+  "tk": "WRITEOFF",
+  "mint": "3x9zhDLLmAg5yh4mveSo5NFbW3zwF5v5ruhBhMKT4gjy",
+  "logo": "img_0.jpg",
+  "accent": "#edbc69",
+  "t": 1794526121
  }
 ]
