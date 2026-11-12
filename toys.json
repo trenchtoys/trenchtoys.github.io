@@ -376,7 +376,8 @@
   "mint": "8axwa98MyLNjD4PqpWwpHYBRjq5nUJjqhLNeKSjUcB8R",
   "logo": "img_0.jpg",
   "accent": "#fbd372",
-  "t": 1794527257
+  "t": 1794527257,
+  "hidden": true
  },
  {
   "slug": "extrovrt-9fb0",
