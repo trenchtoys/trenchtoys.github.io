@@ -438,5 +438,14 @@
   "accent": "#d15b25",
   "t": 1794528750,
   "hidden": true
+ },
+ {
+  "slug": "chartity-2b57",
+  "name": "Chartity",
+  "tk": "CHARTITY",
+  "mint": "GSaWhqZEZ84rc5RGz54hGfR43dMZcTKHFyJ2FmSKGjQw",
+  "logo": "img_0.jpg",
+  "accent": "#41e1c2",
+  "t": 1794528840
  }
 ]
