@@ -448,5 +448,14 @@
   "accent": "#41e1c2",
   "t": 1794528840,
   "hidden": true
+ },
+ {
+  "slug": "onesec-e072",
+  "name": "I Thought About It For A Second",
+  "tk": "ONESEC",
+  "mint": "5nnpiZmqWBsCue9vhH2eq8W2rXF2FuxRPd2mVdCAaBLu",
+  "logo": "img_0.jpg",
+  "accent": "#ef9b67",
+  "t": 1794528949
  }
 ]
