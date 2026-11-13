@@ -488,5 +488,14 @@
   "accent": "#d1ad82",
   "t": 1794529458,
   "hidden": true
+ },
+ {
+  "slug": "godbeta-18a4",
+  "name": "God Beta",
+  "tk": "GODBETA",
+  "mint": "GimmY6YV3j5kYEfz8s4aaiQMWhbrgyn6uYcagfjvViSf",
+  "logo": "img_0.jpg",
+  "accent": "#d1a657",
+  "t": 1794529721
  }
 ]
