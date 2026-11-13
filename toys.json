@@ -418,5 +418,14 @@
   "accent": "#004bd1",
   "t": 1794528415,
   "hidden": true
+ },
+ {
+  "slug": "capslock-6e7d",
+  "name": "Caps Lock Philanthropist",
+  "tk": "CAPSLOCK",
+  "mint": "FGQ9WcduccvaQEY4QbJBebDfDunNFbc7g1FkdixwHca4",
+  "logo": "img_0.jpg",
+  "accent": "#d14d1d",
+  "t": 1794528604
  }
 ]
