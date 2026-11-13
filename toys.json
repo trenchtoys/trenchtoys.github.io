@@ -398,5 +398,14 @@
   "accent": "#61f3be",
   "t": 1794527926,
   "hidden": true
+ },
+ {
+  "slug": "pebble-0466",
+  "name": "Pebble For The Zookeeper",
+  "tk": "PEBBLE",
+  "mint": "6rz4nQRjxSf9EDR2KZutZdopxMB2AkxoxcCEiJ4AuAXv",
+  "logo": "img_0.jpg",
+  "accent": "#fde695",
+  "t": 1794528165
  }
 ]
