@@ -477,5 +477,14 @@
   "logo": "img_0.jpg",
   "accent": "#e2a667",
   "t": 1794529276
+ },
+ {
+  "slug": "acorn-64b0",
+  "name": "Acorn With Ambitions",
+  "tk": "ACORN",
+  "mint": "8jh7GePotFHyQJWDPHyarpvj6hpjr34CXAAtLzESFVoQ",
+  "logo": "img_0.jpg",
+  "accent": "#d1ad82",
+  "t": 1794529458
  }
 ]
