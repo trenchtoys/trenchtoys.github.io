@@ -518,5 +518,14 @@
   "accent": "#fee19d",
   "t": 1794530113,
   "hidden": true
+ },
+ {
+  "slug": "preview-bea2",
+  "name": "It Fit In The Preview",
+  "tk": "PREVIEW",
+  "mint": "FyWKPXMVMYfxArJGV8rUqqJLGNeKKN5eQGjk1hwESLda",
+  "logo": "img_0.jpg",
+  "accent": "#dab479",
+  "t": 1794530238
  }
 ]
