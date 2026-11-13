@@ -476,7 +476,8 @@
   "mint": "DcZrvfifBAHw8RuvLtbtxB9uq5RaK7R31LrGxfNBGQbE",
   "logo": "img_0.jpg",
   "accent": "#e2a667",
-  "t": 1794529276
+  "t": 1794529276,
+  "hidden": true
  },
  {
   "slug": "acorn-64b0",
