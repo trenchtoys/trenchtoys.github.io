@@ -508,5 +508,14 @@
   "accent": "#d10a00",
   "t": 1794529861,
   "hidden": true
+ },
+ {
+  "slug": "cough-0e6c",
+  "name": "The Fake Cough Rehearsal",
+  "tk": "COUGH",
+  "mint": "AYodUTPYS3kiA7PYQazquaiSPmRKzbcNfrd8DFPCEoYi",
+  "logo": "img_0.jpg",
+  "accent": "#fee19d",
+  "t": 1794530113
  }
 ]
