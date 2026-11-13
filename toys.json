@@ -528,5 +528,14 @@
   "accent": "#dab479",
   "t": 1794530238,
   "hidden": true
+ },
+ {
+  "slug": "missingi-e10f",
+  "name": "The Missing I",
+  "tk": "MISSINGI",
+  "mint": "HxFTFp4VU6sAsppTe7vNXyfUdhGyVexXpJtoREFc1EBM",
+  "logo": "img_0.jpg",
+  "accent": "#e8965a",
+  "t": 1794530698
  }
 ]
