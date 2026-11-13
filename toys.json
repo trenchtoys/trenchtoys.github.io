@@ -457,5 +457,14 @@
   "logo": "img_0.jpg",
   "accent": "#ef9b67",
   "t": 1794528949
+ },
+ {
+  "slug": "stork-9b31",
+  "name": "The Stork Disagrees",
+  "tk": "STORK",
+  "mint": "dtf92kht2GLFcSBEDh3pMGs1nk3ZEgHaH7gnoYzZSK5",
+  "logo": "img_0.jpg",
+  "accent": "#d1a769",
+  "t": 1794529028
  }
 ]
