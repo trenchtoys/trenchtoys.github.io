@@ -13,7 +13,7 @@ h1{margin:0;font-size:clamp(36px,6vw,60px);letter-spacing:-1px}p.t{margin:2px 0 
 .mc{color:#aab2bf;font-size:14px;margin-top:4px}</style></head><body><main>
 <header><img src="logo.png" alt=""><div><h1>Trench Toys</h1><p class="t">Tiny meme mascots, made fresh. Every toy, live.</p></div></header>
 <div class="links" style="margin-bottom:24px"><a href="https://x.com/trenchtoysfun" target="_blank">𝕏 @trenchtoysfun</a><a href="https://t.me/trenchtoysfun" target="_blank">Telegram</a></div>
-<div class="grid" id="g"><a class="card" style="--a:#e8965a" href="c/missingi-e10f/" data-ca="HxFTFp4VU6sAsppTe7vNXyfUdhGyVexXpJtoREFc1EBM"><img src="c/missingi-e10f/img_0.jpg" loading="lazy" alt=""><div class="b"><b>The Missing I</b><span class="pill">$MISSINGI</span><div class="mc"></div></div></a></div></main>
+<div class="grid" id="g"><p style="color:#aab2bf">First toys coming soon.</p></div></main>
 <script>const fmt=n=>n==null?"":n>=1e6?"$"+(n/1e6).toFixed(2)+"M":n>=1e3?"$"+(n/1e3).toFixed(1)+"K":"$"+Math.round(n);
 document.querySelectorAll("[data-ca]").forEach(async el=>{const ca=el.dataset.ca;if(!ca)return;try{const j=await (await fetch("https://api.dexscreener.com/latest/dex/tokens/"+ca)).json();
 const p=(j.pairs||[])[0];if(p)el.querySelector(".mc").textContent="market cap "+fmt(p.marketCap||p.fdv)}catch(e){}});</script></body></html>
