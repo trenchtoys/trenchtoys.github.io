@@ -498,5 +498,14 @@
   "accent": "#d1a657",
   "t": 1794529721,
   "hidden": true
+ },
+ {
+  "slug": "bleeding-22f6",
+  "name": "Bleeding Heart Bagholder",
+  "tk": "BLEEDING",
+  "mint": "8echgosydYGQEagzop4EWVmGf2vkeYxo8AFzZ9bQHDuR",
+  "logo": "img_0.jpg",
+  "accent": "#d10a00",
+  "t": 1794529861
  }
 ]
