@@ -538,5 +538,14 @@
   "accent": "#e8965a",
   "t": 1794530698,
   "hidden": true
+ },
+ {
+  "slug": "att-b036",
+  "name": "Attaboy",
+  "tk": "ATT",
+  "mint": "ACZ9KYS9DdQGDadg3Zjpm21R27aRdynHBtazbtwXpump",
+  "logo": "trend_att.jpg",
+  "accent": "#fece02",
+  "t": 1794707866
  }
 ]
