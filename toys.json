@@ -546,6 +546,7 @@
   "mint": "ACZ9KYS9DdQGDadg3Zjpm21R27aRdynHBtazbtwXpump",
   "logo": "trend_att.jpg",
   "accent": "#fece02",
-  "t": 1794707866
+  "t": 1794707866,
+  "hidden": true
  }
 ]
