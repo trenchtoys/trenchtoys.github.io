@@ -548,5 +548,14 @@
   "accent": "#fece02",
   "t": 1794707866,
   "hidden": true
+ },
+ {
+  "slug": "lone-8ee0",
+  "name": "Lone",
+  "tk": "LONE",
+  "mint": "5FAM7uPEq7shs5Gq7xz26x8McDyJzfrHEvXdNCoopump",
+  "logo": "trend_lone.jpg",
+  "accent": "#be5ed1",
+  "t": 1794708259
  }
 ]
