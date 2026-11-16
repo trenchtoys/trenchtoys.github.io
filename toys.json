@@ -578,5 +578,14 @@
   "accent": "#d18e46",
   "t": 1794867805,
   "hidden": true
+ },
+ {
+  "slug": "toly-e46f",
+  "name": "Toly",
+  "tk": "TOLY",
+  "mint": "HBWfX7NxhXR88eeYtbSS9LfRS2yubXNtcjYzKgCepump",
+  "logo": "trend_toly.jpg",
+  "accent": "#d1ae8d",
+  "t": 1794870361
  }
 ]
