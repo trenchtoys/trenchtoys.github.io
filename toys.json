@@ -566,6 +566,7 @@
   "mint": "5yvyRdenwePp9kPefPetwg3cbVBh2VRoicJK13anpump",
   "logo": "trend_wind.jpg",
   "accent": "#20b4d1",
-  "t": 1794865234
+  "t": 1794865234,
+  "hidden": true
  }
 ]
