@@ -568,5 +568,14 @@
   "accent": "#20b4d1",
   "t": 1794865234,
   "hidden": true
+ },
+ {
+  "slug": "mcat-a9e3",
+  "name": "Mcat",
+  "tk": "MCAT",
+  "mint": "EeniSy9wRB73ZN4TqJtVE4vmnEBW4u6wLVPLXPfVpump",
+  "logo": "trend_mcat.jpg",
+  "accent": "#d18e46",
+  "t": 1794867805
  }
 ]
