@@ -558,5 +558,14 @@
   "accent": "#be5ed1",
   "t": 1794708259,
   "hidden": true
+ },
+ {
+  "slug": "wind-8910",
+  "name": "Wind",
+  "tk": "WIND",
+  "mint": "5yvyRdenwePp9kPefPetwg3cbVBh2VRoicJK13anpump",
+  "logo": "trend_wind.jpg",
+  "accent": "#20b4d1",
+  "t": 1794865234
  }
 ]
