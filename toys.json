@@ -596,6 +596,7 @@
   "mint": "84NSw5vxZwFZavHMvKe1fX5q5RERx8gJ1tFBNfVapump",
   "logo": "snore.png",
   "accent": "#d18750",
-  "t": 1794881372
+  "t": 1794881372,
+  "hidden": true
  }
 ]
